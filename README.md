@@ -4,7 +4,9 @@ A collection of skills/guidelines for building applications using AI Agents.
 
 ## Skills
 - [Spring Boot](skills/spring-boot)
+- [Spring Modulith Verifier](skills/spring-modulith-verifier)
 - [jSpecify](skills/jspecify)
+- [Java Code Review](skills/java-code-review)
 
 ## Usage
 
